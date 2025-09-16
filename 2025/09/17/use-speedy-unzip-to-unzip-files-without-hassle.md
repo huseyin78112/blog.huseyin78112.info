@@ -3,8 +3,10 @@ You can use my new utility Speedy Unzip to extract files of a ZIP, encrypted ZIP
 
 ## How to Use
 * Select a ZIP file by clicking Browse or enter it manually
+
 ![Demonstration image for step 1](/images/0.png)
 * Click **Unzip**. If the operation succeeded, you should see the following message.
+
 ![Demonstration image for step 2](/images/1.png)
 
 ## Easy to Use
