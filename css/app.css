@@ -4,3 +4,6 @@ html {
   background-color: white;
   color: black;
 }
+img {
+  max-width: 100%;
+}
