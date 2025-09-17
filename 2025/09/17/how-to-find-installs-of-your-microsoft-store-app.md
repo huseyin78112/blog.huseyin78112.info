@@ -1,6 +1,9 @@
 # How to Find Installs of Your Microsoft Store App?
 If you have an application in the Microsoft Store, you can view your app's page views, installs etc. by 2 ways.
+
+Go to Microsoft Partner Center and follow these steps.
 ## Way 1: From Application Overview Page
+* Go to "Apps and games" workspace.
 * Navigate to your application's overview page by clicking an app. In this example, I show you the Free ISO Creator. (Free ISO Creator is my app)
   
 ![Demonstration image for way 1 step 1](/images/2.png)
@@ -8,7 +11,7 @@ If you have an application in the Microsoft Store, you can view your app's page 
 
 ![Demonstration image for way 1 step 2](/images/3.png)
 ## Way 2: From Insights
-* Go to "Insights".
+* Go to "Insights" workspace.
 
 ![Demonstration image for way 2 step 1](/images/4.png)
 * Go to "Acquistions" page.
