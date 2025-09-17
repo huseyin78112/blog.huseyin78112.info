@@ -4,29 +4,20 @@ If you have an application in the Microsoft Store, you can view your app's page 
 Go to Microsoft Partner Center and follow these steps.
 ## Way 1: From Application Overview Page
 * Go to "Apps and games" workspace.
-* Navigate to your application's overview page by clicking an app. In this example, I show you the Free ISO Creator. (Free ISO Creator is my app)
-  
+* Navigate to your application's overview page by clicking an app. In this example, I show you the Free ISO Creator. (Free ISO Creator is my app)<br />
 ![Demonstration image for way 1 step 1](/images/2.png)
-* Expand the "Analytics" section.
-
+* Expand the "Analytics" section.<br />
 ![Demonstration image for way 1 step 2](/images/3.png)
 ## Way 2: From Insights
-* Go to "Insights" workspace.
-
+* Go to "Insights" workspace.<br />
 ![Demonstration image for way 2 step 1](/images/4.png)
-* Go to "Acquistions" page.
-
+* Go to "Acquistions" page.<br />
 ![Demonstration image for way 2 step 2](/images/5.png)
-* Select the application you want to see the analytics.
-
+* Select the application you want to see the analytics.<br />
 ![Demonstration image for way 2 step 3](/images/6.png)
-* If you want, you can change the period of installs.
-
+* If you want, you can change the period of installs.<br />
 ![Demonstration image for way 2 step 4](/images/7.png)
-* Select any date in the dropdown. I show you the last 12 months.
-
+* Select any date in the dropdown. I show you the last 12 months.<br />
 ![Demonstration image for way 2 step 5](/images/8.png)
-
-* For Free ISO Creator, the 12-month statistics are the following: (as of 9/17/2025)
-
+* For Free ISO Creator, the 12-month statistics are the following: (as of 9/17/2025)<br />
 ![Demonstration image for way 2 step 6](/images/9.png)
