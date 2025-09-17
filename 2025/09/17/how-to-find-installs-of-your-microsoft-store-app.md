@@ -25,4 +25,5 @@ If you have an application in the Microsoft Store, you can view your app's page 
 ![Demonstration image for way 2 step 5](/images/8.png)
 
 * For Free ISO Creator, the 12-month statistics are the following: (as of 9/17/2025)
+
 ![Demonstration image for way 2 step 6](/images/9.png)
