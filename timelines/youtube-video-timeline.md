@@ -1,5 +1,6 @@
 # YouTube Video Timeline
 This page contains the timeline for Huseyin78112's YouTube videos that have been published/will be published.
+
 ## 2025
 * [x] 22 September 2025 ([video here](https://www.youtube.com/watch?v=oGLbbU9IDkg))
 * [ ] 02 October 2025
@@ -12,6 +13,7 @@ This page contains the timeline for Huseyin78112's YouTube videos that have been
 * [ ] 11 December 2025
 * [ ] 21 December 2025
 * [ ] 31 December 2025
+
 ## 2026
 * [ ] 10 January 2026
 * [ ] 20 January 2026
@@ -49,6 +51,7 @@ This page contains the timeline for Huseyin78112's YouTube videos that have been
 * [ ] 06 December 2026
 * [ ] 16 December 2026
 * [ ] 26 December 2026
+
 ## 2027
 * [ ] 05 January 2027
 * [ ] 15 January 2027
@@ -87,6 +90,7 @@ This page contains the timeline for Huseyin78112's YouTube videos that have been
 * [ ] 11 December 2027
 * [ ] 21 December 2027
 * [ ] 31 December 2027
+
 ## 2028
 * [ ] 10 January 2028
 * [ ] 20 January 2028
