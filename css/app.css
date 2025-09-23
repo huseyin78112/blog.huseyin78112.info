@@ -3,6 +3,7 @@ html {
   font-family: 'PT Sans', sans-serif;
   background-color: white;
   color: black;
+  color-scheme: light dark;
 }
 img {
   max-width: 100%;
@@ -10,5 +11,11 @@ img {
 @media (min-width: 640px) {
   .container {
     margin: 0 12.5% 0 12.5%;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  html {
+    background-color: black;
+    color: white;
   }
 }
