@@ -6,8 +6,9 @@ html {
   color-scheme: light dark;
   --theme-color: #007FFF;
 }
-a:link {
+a:link, a:active, a:visited {
   color: var(--theme-color);
+  text-decoration: none;
 }
 img {
   max-width: 100%;
