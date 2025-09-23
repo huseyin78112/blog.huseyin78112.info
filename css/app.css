@@ -4,6 +4,10 @@ html {
   background-color: white;
   color: black;
   color-scheme: light dark;
+  --theme-color: #007FFF;
+}
+a:link {
+  color: var(--theme-color);
 }
 img {
   max-width: 100%;
