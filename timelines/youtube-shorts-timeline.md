@@ -3,7 +3,7 @@ This page contains the timeline for Huseyin78112's YouTube Shorts videos that ha
 
 ## 2025
 * [x] 24 September 2025 ([video here](https://www.youtube.com/shorts/vNBc5tH-Eyc))
-* [ ] 26 September 2025
+* [x] 26 September 2025 ([video here](https://www.youtube.com/shorts/W-9YcmKFIlY))
 * [ ] 28 September 2025
 * [ ] 30 September 2025
 * [ ] 02 October 2025
