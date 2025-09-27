@@ -3,7 +3,7 @@ This page contains the timeline for Huseyin78112's YouTube videos that have been
 
 ## 2025
 * [x] 22 September 2025 ([video here](https://www.youtube.com/watch?v=oGLbbU9IDkg))
-* [ ] 02 October 2025
+* [ ] 02 October 2025 (failed)
 * [ ] 12 October 2025
 * [ ] 22 October 2025
 * [ ] 01 November 2025
