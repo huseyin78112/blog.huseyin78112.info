@@ -1,7 +1,7 @@
 # How to Install Microsoft Store Apps From Command Line?
 There is a way to install Microsoft Store apps via Command Line.
 
-## Prerequisties
+## Prerequisites
 Winget 1.8 or later
 
 ## Installing the App
